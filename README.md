@@ -1,5 +1,5 @@
 # Book-Reviews
-A web app centered around reviewing and rating books. Created with Laravel.
+A web app centered around reviewing and rating books.
 
 This project was made using:
 - PHP
